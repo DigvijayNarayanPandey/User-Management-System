@@ -42,7 +42,7 @@ A web application for managing user profiles, built with Node.js, Express, and M
    ```bash
    mongod
    ```
-   5. **Start the application:**
+5. **Start the application:**
    ```bash
    npm start
    ```
@@ -61,15 +61,17 @@ A web application for managing user profiles, built with Node.js, Express, and M
 Feel free to open issues or submit pull requests if you'd like to contribute to the project.  
 
   
+  
 **License**  
 
 This project is licensed under the MIT License. See the LICENSE file for details.  
 
   
+  
 
 **Acknowledgments**  
 
 - **Tailwind CSS for the styling.**
-**EJS for templating.**
+- **EJS for templating.**
    
 
