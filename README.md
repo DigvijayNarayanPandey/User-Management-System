@@ -30,3 +30,8 @@ A web application for managing user profiles, built with Node.js, Express, and M
    ```bash
    cd user-management-system
    ```
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
