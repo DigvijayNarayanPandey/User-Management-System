@@ -1,0 +1,24 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Your Font', sans-serif;
+}
+
+body {
+    background-image: url('/path/to/your/background-image.jpg');
+    /* If using an image */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    color: #fff;
+    /* Adjust text color for readability */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
