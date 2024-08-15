@@ -42,9 +42,34 @@ A web application for managing user profiles, built with Node.js, Express, and M
    ```bash
    mongod
    ```
-   
-5. **Start the application:**
+   5. **Start the application:**
    ```bash
    npm start
    ```
    *The application will be available at http://localhost:8080.*
+   
+**Usage**  
+
+- **Homepage (/)**: Navigate to the home page.
+- **Read Users (/read)**: View the list of users.
+- **Create User (/create)**: Use the form to add a new user.
+- **Edit User (/edit/:userid)**: Update an existing user's details.
+- **Delete User (/delete/:id)**: Remove a user from the list.
+  
+**Contributing**  
+
+Feel free to open issues or submit pull requests if you'd like to contribute to the project.  
+
+  
+**License**  
+
+This project is licensed under the MIT License. See the LICENSE file for details.  
+
+  
+
+**Acknowledgments**  
+
+- **Tailwind CSS for the styling.**
+**EJS for templating.**
+   
+
