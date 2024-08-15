@@ -35,3 +35,17 @@ A web application for managing user profiles, built with Node.js, Express, and M
    ```bash
    npm install
    ```
+4. **Start MongoDB server:**
+   
+   Ensure MongoDB is running locally. You can start it with:
+   
+   ```bash
+   mongod
+   ```
+   
+5. **Start the application:**
+   ```bash
+   npm start
+   ```
+   
+*The application will be available at http://localhost:8080.*
